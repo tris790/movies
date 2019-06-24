@@ -1,0 +1,20 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "Host a movie so that you and your friends can watch it",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tris790/movies.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tris790/movies/issues"
+  },
+  "homepage": "https://github.com/tris790/movies#readme"
+}
